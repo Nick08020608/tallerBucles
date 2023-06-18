@@ -15,4 +15,4 @@ for i in range(estudiantes): #Se crea un ciclo con la restriccion que coloca el 
 
 promedio = total_notas / estudiantes #Sacamos el promedio de las notas
 
-print(f"La nota mas alta de los estuantes es {nota_alta}, la nota mas baja seria {nota_baja} y el promedio de notas del estudiante seria {promedio}.") #Finalmente imprimimos todos los datos.
+print(f"La nota mas alta de los estuantes es {nota_alta}, la nota mas baja seria {nota_baja} y el promedio de notas del estudiante seria {promedio}.") #Finalmente imprimimos todos los datos :)

@@ -9,4 +9,4 @@ def program(num): #Definimos una funcion.
     else:
         print(f"lo siento el numero {num} es menor o igual que 10") #Esto sera lo que aparecera si no se cumple dicha conficion en el ciclo
 resultado= program(numero)
-print(f"los divisores de {numero} son: {resultado}")
+print(f"los divisores de {numero} son: {resultado}") #Finalmente imprimimos los divisores :)

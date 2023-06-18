@@ -7,4 +7,4 @@ for i in range(numero_notas): #Creamos un ciclo con un rango e cual es el que co
 
 promedio = suma / numero_notas #Finalmente se saca el promedio de notas dividiendo la suma de todas las notas sobre el numero de notas.
 
-print(f"El promedio del estudiante es: {promedio:.1f}")
+print(f"El promedio del estudiante es: {promedio:.1f}") #Finalmente lo imprimimos todo :)

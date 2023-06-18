@@ -11,4 +11,4 @@ def programa(num,num1): #Definimos una funcion
     else: #Creamos otra por si no se cumple ninguna
         print(f"el numero {num1} es mas grande que {num}")
 resultado= programa(num, num1) #Sacamos el resultado :)
-print(resultado) #Imprimimos todo :)
+print(resultado) #Imprimimos todo UwU

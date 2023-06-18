@@ -12,4 +12,4 @@ def operacion (num): #Definimos una funcion
             sum +=i #sumamos la funcion a la itentacion
         return sum
 resultado= operacion(num) #Realizamos el resultado final
-print(f"La multiplicacion de {num} es {resultado}.") #y colocamos el resultado final
+print(f"La multiplicacion de {num} es {resultado}.") #Y colocamos el resultado final
