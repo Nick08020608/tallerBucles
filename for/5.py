@@ -8,5 +8,4 @@ for i in range(numero + 1): #creamos un ciclo en donde se le sume 1 al rango num
         suma_impares += i #Se suman la cantidad de numero impares que hay
         cantidad_impares += 1 #Cuenta la cantidad de numeros impares que hay
 
-print(f"La suma de los numeros impares es: {suma_impares}.") #Se muestra la suma de todos los numeros impares.
-print(f"La cantidad de numeros impares que hay es: {cantidad_impares}.") #Se muestra la cantidad de numeros impares que hay en la funcion :)
+print(f"La suma de los numeros impares es: {suma_impares}.\nLa cantidad de numeros impares que hay es: {cantidad_impares}.") #Se muestra la suma de todos los numeros impares. #Se muestra la cantidad de numeros impares que hay en la funcion :)
