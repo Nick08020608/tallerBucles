@@ -8,7 +8,7 @@ def programa(num,num1): #Definimos una funcion
         return sum
     elif num == num1: #Creamos otra condicion por si no se cumple la anterior
         print(f"los numeros {num} y {num1} son iguales.")
-    else: #Creamos otra por si no se cumple ninguna
+    else: #Ccumpreamos otra por si no se le ninguna
         print(f"el numero {num1} es mas grande que {num}")
 resultado= programa(num, num1) #Sacamos el resultado :)
 print(resultado) #Imprimimos todo UwU
